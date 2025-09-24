@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Tue Jul 16 12:11:21 2024
+# Process ID: 41521
+# Current directory: /net/top/homes/mhussain/ODMB/B2B_test/b2b_ibert_4p8_4quad/ibert_ultrascale_gth_0_ex/ibert_ultrascale_gth_0_ex.runs/impl_1
+# Command line: vivado -log example_ibert_ultrascale_gth_0.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source example_ibert_ultrascale_gth_0.tcl -notrace
+# Log file: /net/top/homes/mhussain/ODMB/B2B_test/b2b_ibert_4p8_4quad/ibert_ultrascale_gth_0_ex/ibert_ultrascale_gth_0_ex.runs/impl_1/example_ibert_ultrascale_gth_0.vdi
+# Journal file: /net/top/homes/mhussain/ODMB/B2B_test/b2b_ibert_4p8_4quad/ibert_ultrascale_gth_0_ex/ibert_ultrascale_gth_0_ex.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source example_ibert_ultrascale_gth_0.tcl -notrace

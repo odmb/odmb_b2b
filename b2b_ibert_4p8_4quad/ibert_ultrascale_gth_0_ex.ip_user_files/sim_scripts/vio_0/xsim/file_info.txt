@@ -1,0 +1,2 @@
+vio_0.v,verilog,xil_defaultlib,../../../../ibert_ultrascale_gth_0_ex.srcs/sources_1/ip/vio_0/sim/vio_0.v,incdir="../../../../ibert_ultrascale_gth_0_ex.srcs/sources_1/ip/vio_0/hdl/verilog"incdir="../../../../ibert_ultrascale_gth_0_ex.srcs/sources_1/ip/vio_0/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v
